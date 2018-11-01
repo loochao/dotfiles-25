@@ -3,18 +3,15 @@
 export PKG=(
   acpi
   catdoc
-  catppt
+  ctags
   curl
   diffpdf
   dunst
-  exuberant-ctags
   feh
   htop
-  img2txt
   lighttpd
   lolcat
   lxappearance
-  ncurses-term
   neofetch
   numlockx
   odt2txt
@@ -24,12 +21,10 @@ export PKG=(
   pandoc-crossref
   ranger
   rofi
-  screenkey
   terminology
   texstudio
   tree
   wget
-  xbacklight
   xcape
   xclip
   z
@@ -52,7 +47,6 @@ export AUR=(
   spotify
   tldr
   trello
-  spotify
   watchexec
 )
 
